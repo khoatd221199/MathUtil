@@ -8,7 +8,8 @@ This repository contains a simple JAVA application used for demonstration of CI 
 * Markdown code - this file itself
 
 ## Connect me via
-1.[Facebook](https://www.facebook.com/bitran2211)
-2.[GitHub](https://github.com/trankhoa0901085027)
-3.[Email](trankhoa0901085027@gmail.com)
-####### © 2020 by KhoaTran | FPT University HCMC
+1. [Facebook](https://www.facebook.com/bitran2211)
+2. [GitHub](https://github.com/trankhoa0901085027)
+3. [Email](trankhoa0901085027@gmail.com)
+
+###### © 2020 by KhoaTran | FPT University HCMC
